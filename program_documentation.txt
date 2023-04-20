@@ -1,2 +1,5 @@
-added printf
-added scanf
+4/19/2023:
+    added printf
+    added scanf
+    added strlen
+    put everything in a class
