@@ -3,3 +3,8 @@
     added scanf
     added strlen
     put everything in a class
+4/20/2023:
+    added multiple files to recreate the functions defined the different header files and folders to store them
+    now checks variable type for printf() and scanf() (in input-and-output.py)
+    added getchar()
+    made it work like it does in c
